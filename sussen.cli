@@ -18,3 +18,7 @@ SG9tZSIsInR5cGUiOiJob21lIiwiZXhwaXJhdGlvbl9kYXRlIjoxNzcwNjI4NTc2LCJjdXN0b21l
 cl9pZCI6MCwiaXBzIjoxNiwidXBkYXRlX2xvZ2luIjoiZDgxMzYyMjVjZGM2MjAxYjJiNGYyMzEx
 ZjYxZTliMDQiLCJkcm0iOiI5YmM4ZGEyZDg3YTg4Mzk4N2EwM2UxNTY3NzkwYWY5NSJ9
 -----END TENABLE LICENSE-----
+
+
+Configure Authenticated Proxy usage for the Connected User Experience and Telemetry service	Enabled: Disable Authenticated Proxy usage	T
+Allow Message Service Cloud Sync	Disabled	T
